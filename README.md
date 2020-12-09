@@ -1,6 +1,18 @@
 # Hipaper
 
-[![Gitter](https://camo.githubusercontent.com/079d8764b5eebffbb7158fb375df0959029ab2c3/68747470733a2f2f6261646765732e6769747465722e696d2f6865786f2d7468656d652d696e6469676f2f4c6f6262792e737667)](https://gitter.im/hexo-theme-hiker/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)             [![Build Status](https://travis-ci.org/iTimeTraveler/hexo-theme-hipaper.svg?branch=master)](https://travis-ci.org/iTimeTraveler/hexo-theme-hipaper)		[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/iTimeTraveler/hexo-theme-hipaper/blob/master/LICENSE)
+**This is a personal fork of the original for my Wonders of Tea website with some personal changes**
+
+## Reason for Fork & Todos
+As time passes this fork will diverge from the original but will occassionally pull updates from there. I hope to do the following with this fork:
+
+* Add sitemap support
+* Add more plugins support
+* Add more SEO-friendly features such as:
+  * Yandex website support.
+  * Bing website support.
+  * Google Tag Manager Support
+
+(https://gitter.im/hexo-theme-hiker/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)             [![Build Status](https://travis-ci.org/iTimeTraveler/hexo-theme-hipaper.svg?branch=master)](https://travis-ci.org/iTimeTraveler/hexo-theme-hipaper)		[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/iTimeTraveler/hexo-theme-hipaper/blob/master/LICENSE)
 
 
 **A fashional newspaper, blog theme for Hexo**. 
