@@ -51,6 +51,7 @@ widgets:
 - tag
 - tagcloud
 - archive
+# - mailchimp
 
 # Social Links
 # Key is the name of FontAwsome icon.
@@ -77,7 +78,7 @@ disqus_shortname:
 livere_shortname: MTAyMC8yOTQ4MS82MDQ5
 uyan_uid: 
 wumii: 
-
+formspree: moqppvaw
 
 # Code Highlight theme
 # Available value:
